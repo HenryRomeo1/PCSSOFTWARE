@@ -1,6 +1,6 @@
 /* General styles for all menus */
 .cbp-spmenu {
-	background: #117892;
+	background: #0b2e51;
 	position: fixed;
 }
 
@@ -10,7 +10,7 @@
 	padding: 20px;
 	margin: 0;
 	font-weight: 300;
-	background: #0d77b6;
+	background: #117892;
 }
 
 
@@ -22,11 +22,11 @@
 }
 
 .cbp-spmenu a:hover {
-	background: #258ecd;
+	background: #e67443;
 }
 
 .cbp-spmenu a:active {
-	background: #afdefa;
+	background: #117892;
 	color: #47a3da;
 }
 

@@ -21,7 +21,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family:'Open Sans', sans-serif;
+    font-family:'Trade Gothic LT W01 bold';
 }
 
 h1 {
@@ -182,7 +182,7 @@ font-weight: 900;
 
 
 .head-btn-one {
-    background-color: rgba(252, 64, 101, 1);
+    background-color: #e67443;
      border: 0px solid #fff;
 
 }
@@ -211,8 +211,11 @@ font-weight: 900;
 .btn-lg, .btn-group-lg > .btn {
 border-radius: 0px; 
 
-}
 
+}
+.head-btn-two {
+    background-color: #5fbb46;
+}
 /*=======================================
     ABOUT SECTION STYLES
 ==================================================*/
@@ -227,7 +230,7 @@ border-radius: 0px;
     width: 100%;
 }
 .team-member > h3 {
-    background: rgba(252, 64, 101, 1);
+    background: #5fbb46;
     bottom: 25px;
     color:#fff;
     font-size: 20px;
@@ -245,7 +248,7 @@ border-radius: 0px;
 	transition: all 0.3s ease 0s;
 }
 .team-member:hover > h3 {
-    background: #0d77b6;
+    background: #e67443;
     bottom: -55px;
     color: #FFFFFF;	
 	-webkit-transition: all 0.3s ease 0s;
@@ -292,7 +295,7 @@ border-radius: 0px;
 
 .plan li.plan-head {
    padding: 15px 0px;
-background-color: #0d77b6;
+background-color: #117892;
 color: #FFFFFF;
 line-height: 20px;
 font-size: 20px;
@@ -392,7 +395,7 @@ font-size: 30px;
 ==================================================*/
 
 .color-bg-one {
-    background-color:rgba(0, 122, 255, 1)!important;
+    background-color:#117892!important;
     color:#fff;
 }
 .color-white {
